@@ -1,0 +1,27 @@
+{
+  "name": "@lazh/logger",
+  "version": "0.0.0",
+  "description": "Utility to various application for logging.",
+  "author": "Lakshman.S",
+  "license": "MIT",
+  "homepage": "https://github.com/lakshmansha/lazh-logger#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lakshmansha/lazh-logger.git"
+  },
+  "keywords": [
+    "logger",
+    "node",
+    "javascript"
+  ],
+  "publishConfig": {
+    "access": "public"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "colors": "^1.4.0"
+  }
+}
