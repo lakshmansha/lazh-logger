@@ -64,7 +64,7 @@ It have 2 Modules are
 
 ## Credits
 
-This Library is created based on Base Source of N
+This Library is created based on Base Source used by **[@ngX-Rocket](https://ngx-rocket.com/home)**
 
 
 ## License
